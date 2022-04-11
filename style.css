@@ -29,6 +29,15 @@ body {
   color: #1c1c1c;
 }
 
+.linkedin{
+  height: 20px;
+  margin: 14px;
+}
+
+.github{
+  height: 50px;
+}
+
 .titulo {
   margin-left: 16px;
 }
