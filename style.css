@@ -31,7 +31,8 @@ body {
 
 .linkedin{
   height: 20px;
-  margin: 14px;
+  margin-right: 14px;
+  margin-bottom: 14px;
 }
 
 .github{
@@ -54,7 +55,7 @@ body {
 
 .tema button {
   align-self: flex-end;
-  ont-family: "Roboto", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 20px;
   padding: 8px 16px;
@@ -103,6 +104,14 @@ li p {
 
 .dark .projetos {
   color: #1c1c1c;
+}
+
+.dark .linkedin{
+  filter: invert(100%);
+}
+
+.dark .github{
+  filter: invert(100%);
 }
 
 .dark .tema button {
