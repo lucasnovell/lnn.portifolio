@@ -7,10 +7,10 @@ body {
 .container {
   background: #ecf4ff;
   color: #1c1c1c;
-  margin: 64px;
+  margin: 6vh;
   border-radius: 20px;
   box-shadow: 6px 6px 6px #0e1d2f;
-  padding: 58px;
+  padding: 8vh;
 }
 
 .cabecalho {
@@ -63,14 +63,22 @@ body {
   border-radius: 100px;
 }
 
+a{
+  text-decoration: none;
+}
+
+em{
+  color:chartreuse
+}
+
 .projetos {
   display: flex;
   flex-direction: column;
-  background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
+  background: linear-gradient(262.3deg, #0c79f5ee 25.49%, #5fa6fc 85.19%);
   box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
   border-radius: 20px;
-  margin-top: 58px;
-  padding: 24px;
+  margin-top: 3vw;
+  padding: 2vh;
 }
 
 .projetos-titulo {
