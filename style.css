@@ -7,10 +7,10 @@ body {
 .container {
   background: #ecf4ff;
   color: #1c1c1c;
-  margin: 6vh;
+  margin: 64px;
   border-radius: 20px;
   box-shadow: 6px 6px 6px #0e1d2f;
-  padding: 8vh;
+  padding: 60px;
 }
 
 .cabecalho {
@@ -77,8 +77,8 @@ em{
   background: linear-gradient(262.3deg, #0c79f5ee 25.49%, #5fa6fc 85.19%);
   box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
   border-radius: 20px;
-  margin-top: 3vw;
-  padding: 2vh;
+  margin-top: 48px;
+  padding: 26px;
 }
 
 .projetos-titulo {
